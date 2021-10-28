@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Calculadora.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fcalculadora.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="F_calculadora"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Fcalculadora"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="51"/>
+        <CursorPos X="33" Y="64"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="fcalculadora.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="44" Column="3" TopLine="29"/>
+      </Position2>
+      <Position3>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="35" Column="32" TopLine="30"/>
+      </Position3>
+      <Position4>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="51" Column="3" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="46" Column="27" TopLine="39"/>
+      </Position5>
+      <Position6>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="67" Column="5" TopLine="50"/>
+      </Position6>
+      <Position7>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="57" Column="3" TopLine="49"/>
+      </Position7>
+      <Position8>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="58" Column="3" TopLine="50"/>
+      </Position8>
+      <Position9>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="59" Column="3" TopLine="51"/>
+      </Position9>
+      <Position10>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="56" TopLine="43"/>
+      </Position10>
+      <Position11>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="50" TopLine="37"/>
+      </Position11>
+      <Position12>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="43" Column="29" TopLine="34"/>
+      </Position12>
+      <Position13>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="64" TopLine="52"/>
+      </Position13>
+      <Position14>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="57" TopLine="47"/>
+      </Position14>
+      <Position15>
+        <Filename Value="fcalculadora.pas"/>
+        <Caret Line="58" Column="25" TopLine="47"/>
+      </Position15>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
